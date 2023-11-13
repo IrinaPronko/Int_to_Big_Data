@@ -1,1 +1,1 @@
-# Int_to_Big_Data
+# Вводный курс по Big Data (семинары)
